@@ -1,7 +1,5 @@
 # Image Caption Generation Project
 
-![Image Caption Generation](https://github.com/Ronaknowal/Image-CaptionGenerator/image_caption.jpg)
-
 ## Introduction
 
 This project is focused on the task of generating captions for images using deep learning techniques. The goal is to automatically generate descriptive and relevant captions that accurately depict the content of an image. Image caption generation has numerous applications in the real world, ranging from assisting visually impaired individuals to enhancing content indexing and search in image-heavy databases.
@@ -31,6 +29,8 @@ The image caption generation model employs a combination of computer vision and 
 4. **Automated Image Annotation**: Image captions can be used to automatically annotate images in image collections, making it easier to organize and categorize visual data.
 
 5. **Content Generation for Digital Marketing**: In advertising and digital marketing, image caption generation can be used to create compelling and relevant captions for images, enhancing the overall marketing message.
+
+![Image Caption Generation](https://github.com/Ronaknowal/Image-CaptionGenerator/blob/main/image_caption.jpg)
 
 ## Getting Started
 
