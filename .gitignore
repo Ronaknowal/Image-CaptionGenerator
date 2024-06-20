@@ -1,0 +1,4 @@
+.env
+flickr8k
+train_cache
+test_cache
